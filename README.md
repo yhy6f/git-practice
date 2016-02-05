@@ -1,2 +1,3 @@
 # git-practice
-a git repo for demo purpose
+
+This is a git repo for demo purposes.
